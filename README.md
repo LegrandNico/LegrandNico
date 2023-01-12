@@ -9,5 +9,6 @@ I am the creator and maintainer of the following Python libraries:
 * [metadPy](https://embodied-computation-group.github.io/metadPy/) - a package to compute a variety of metacognitive efficiency parameters from trial-level confidence ratings (SDT, meta-*d* using MLE and Bayesian methods).
 
 📚 You can find the up-to-date list of my publication on my [Google Scholar profile](https://scholar.google.fr/citations?user=buFy4tAAAAAJ&hl=fr)  
-📫 nicolas.legrand@cfin.au.dk  
+📫 nicolas.legrand@cas.au.dk  
 🐦 @legrandni  
+🐘 https://mastodon.social/@nicolegrand
