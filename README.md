@@ -13,5 +13,5 @@ I am the creator and maintainer of the following Python libraries:
 
 📚 You can find the up-to-date list of my publications on my [Google Scholar profile](https://scholar.google.fr/citations?user=buFy4tAAAAAJ&hl=fr)  
 📫 nicolas.legrand@cas.au.dk  
-🟦 @nicolaslegrand.bsky.social  
+🟦 [https://bsky.app/profile/nicolaslegrand.bsky.social](https://bsky.app/profile/nicolaslegrand.bsky.social)  
 🐘 https://mastodon.social/@nicolegrand
