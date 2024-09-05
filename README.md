@@ -1,8 +1,8 @@
 # About me
 
-I am currently working as a researcher in computational psychiatry at the [Ilab](https://github.com/ilabcode) where I develop nonparametric Bayesian models of delusions.
+I am a researcher in artificial intelligence with a strong interest in probabilistic modelling, causal inference and innovative neural network frameworks, such as predictive coding or self-organizing structures. My main passion is to create algorithms and agents that can perceive, learn, decide and act under environmental uncertainty, with a strong focus on computational efficiency. I am a proficient Python and Rust programmer, and the creator of several open-source packages for physiological signal analysis, psychophysiology experiments, neural networks and computational models of learning and metacognition. I am an experienced data scientist with more than 10 years of practice and have completed several research projects, all involving advanced use of machine learning, cognitive modelling, signal processing, inferential statistics, experimental design or (neuro)physiological recording.
 
-Previously, I was working as a postdoctoral fellow in the [Embodied Computation Group](https://www.the-ecg.org/) at [Aarhus University](https://international.au.dk/) where I studied cardiac interoception using computational modelling, brain imaging and physiological signal analysis.
+---
 
 I am the creator and maintainer of the following Python libraries:
 
