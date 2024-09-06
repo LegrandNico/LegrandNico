@@ -24,7 +24,7 @@
 
 # :computer: Open source projects
 
-<img src="https://github.com/ilabcode/pyhgf/blob/master/docs/source/images/logo.svg" align="left" alt="pyhgf" height="150" HSPACE=30>
+<img src="https://github.com/ilabcode/pyhgf/blob/master/docs/source/images/logo.svg" align="left" alt="pyhgf" height="80" HSPACE=30>
 
 [pyhgf](https://github.com/ilabcode/pyhgf) - A Python library written on top of JAX and RUST to create, manipulate and sample dynamic probabilistic neural networks. It implements by default the generalised Hierarchical Gaussian Filter (see [the method paper](https://arxiv.org/abs/2305.10937)), which is a popular model in computational psychiatry that brings together reinforcement learning and Bayesian inference. The toolbox is designed as a neural network library to work with predictive coding models (which is not possible in standard frameworks like TensorFlow or Pytorch). The models can run forwards or be inverted (all functions comply with JAX transformations, including `grad()`), allowing inference over parameters using e.g. Hamiltonian MCMC. Recently, I have been working on a Rust backend that should push functionalities and performance even further, and eliminate the `DynamicShapes` limiting factor encountered with JAX.
 
@@ -32,7 +32,7 @@
 
 ---
 
-<img src="https://github.com/LegrandNico/systole/blob/master/docs/source/images/logo.svg" align="right" alt="metadpy" height="150" HSPACE=30>
+<img src="https://github.com/LegrandNico/systole/blob/master/docs/source/images/logo.svg" align="right" alt="metadpy" height="80" HSPACE=30>
 
 [Systole](https://github.com/embodied-computation-group/systole) is a package centred on processing and visualization of ECG, PPG and respiratory signals. See [here](https://github.com/LegrandNico/systole) for the last versions. It was mainly created to help record PPG and ECG signals using a Python-only API that could interface smoothly with Psychopy. This package is then central for the task developed in Cardioception (see below). It has been extended to an HRV library and supports state-of-the-art analysis with extensive report functionalities, as well as an interactive framework to annotate and correct physiological recordings.
 
@@ -40,7 +40,7 @@
   
 ---
 
-<img src="https://github.com/LegrandNico/cardioception/blob/main/docs/source/images/logo.png" align="left" alt="metadpy" height="250" HSPACE=30>
+<img src="https://github.com/LegrandNico/cardioception/blob/main/docs/source/images/logo.png" align="left" alt="metadpy" height="150" HSPACE=30>
 
 [Cardioception](https://github.com/embodied-computation-group/cardioception) - a psychophysics experiment to measure and analyze cardiac interoceptive beliefs ([the method paper](https://www.sciencedirect.com/science/article/pii/S0301051121002325)). See [here](https://github.com/LegrandNico/cardioception) for the last versions. The task uses Systole for recording and metadpy to estimate metacognitive parameters. The package also provides extensive resources to analyse the data produced by the tasks, including Jupyter notebooks and scripts to fit Bayesian psychometric models automatically.
 
@@ -48,6 +48,6 @@
 
 ---
 
-<img src="https://github.com/LegrandNico/metadpy/raw/master/docs/source/images/logo.png" align="right" alt="metadpy" height="250" HSPACE=30>
+<img src="https://github.com/LegrandNico/metadpy/raw/master/docs/source/images/logo.png" align="right" alt="metadpy" height="150" HSPACE=30>
 
 [metadPy](https://github.com/embodied-computation-group/metadpy) - a package to compute a variety of metacognitive efficiency parameters from trial-level confidence ratings (SDT, meta-*d* using MLE and Bayesian methods). This is mainly a Python adaptation of the [JAGS version](https://github.com/metacoglab/HMeta-d) of the hierarchical meta-d' model. The package is written on top of Pytensor and PyMC for the Bayesian part and uses Numba for the MLE part. It is designed to interface smoothly with Python and should help extract various metacognitive parameters from multi-participant data frames using a single method call. See [here](https://github.com/LegrandNico/metadpy) for the last versions.
