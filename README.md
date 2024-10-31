@@ -24,7 +24,7 @@
 
 # :computer: Open source projects
 
-<img src="https://github.com/ilabcode/pyhgf/blob/master/docs/source/images/logo.svg" align="left" alt="pyhgf" height="80" HSPACE=30>
+<img src="https://github.com/ilabcode/pyhgf/blob/master/docs/source/images/logo.png" align="left" alt="pyhgf" height="80" HSPACE=30>
 
 [pyhgf](https://github.com/ilabcode/pyhgf) - A Python library written on top of JAX and RUST to create, manipulate and sample dynamic probabilistic neural networks. It implements by default the generalised Hierarchical Gaussian Filter (see [the method paper](https://arxiv.org/abs/2305.10937)), which is a popular model in computational psychiatry that brings together reinforcement learning and Bayesian inference. The toolbox is designed as a neural network library to work with predictive coding models (which is not possible in standard frameworks like TensorFlow or Pytorch). The models can run forwards or be inverted (all functions comply with JAX transformations, including `grad()`), allowing inference over parameters using e.g. Hamiltonian MCMC. Recently, I have been working on a Rust backend that should push functionalities and performance even further, and eliminate the `DynamicShapes` limiting factor encountered with JAX.
 
